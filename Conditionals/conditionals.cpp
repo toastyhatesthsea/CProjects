@@ -40,6 +40,7 @@ int main()
         printf("nine");
         break;
     default:
+        printf("Greater than 9");
         break;
     }
 
