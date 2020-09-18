@@ -11,9 +11,6 @@ void update(int *a, int *b)
     {
         *b = *b * -1;
     }
-
-    //printf("%s\n", *a);
-    //printf("%s", *b);
 }
 
 int main()
